@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Purushottam!</a></h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi👋, I'm <a href="https://martinsidorov.com">Purushottam!</a></h1>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <div align="left">
 
