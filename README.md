@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Purushottam!</a></h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<div align="center">
+<div align="left">
 <!--   <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div> -->
 
@@ -17,11 +17,12 @@
 
 - 🌱 I’m currently learning **ReactJs,Javascript, AWS, Microservices**
 
-- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Purushottamfugate/](https://github.com/Purushottamfugate/) and here in GitHub 😄
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/purushottam-fugate-947461212/), or by [mail](purushottamfugate@gmail.com)
+
+-    <a href="https://drive.google.com/file/d/1cMgssVnPHxGxuesFV6a4ZEP3Tiz77bB4/view?usp=drivesdk" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="drive" width="40" height="40"/>
 
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
