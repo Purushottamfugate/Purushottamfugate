@@ -7,7 +7,7 @@
 
 </div>
 
-- 🔭 I’m currently working in **Teople Technologies**
+- 🔭 I’m currently working at **Teople Technologies** as a Java Backend Developer.
 
 - 🌱 I’m currently learning **ReactJs,Javascript, AWS, Microservices**
 
